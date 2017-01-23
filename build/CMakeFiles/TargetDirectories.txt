@@ -1,0 +1,16 @@
+/Users/mquintero/Projects/Personal/GameDeveloping/opengl_boilerplate/build/CMakeFiles/install/strip.dir
+/Users/mquintero/Projects/Personal/GameDeveloping/opengl_boilerplate/build/CMakeFiles/edit_cache.dir
+/Users/mquintero/Projects/Personal/GameDeveloping/opengl_boilerplate/build/CMakeFiles/rebuild_cache.dir
+/Users/mquintero/Projects/Personal/GameDeveloping/opengl_boilerplate/build/CMakeFiles/install.dir
+/Users/mquintero/Projects/Personal/GameDeveloping/opengl_boilerplate/build/CMakeFiles/list_install_components.dir
+/Users/mquintero/Projects/Personal/GameDeveloping/opengl_boilerplate/build/CMakeFiles/Game.dir
+/Users/mquintero/Projects/Personal/GameDeveloping/opengl_boilerplate/build/CMakeFiles/install/local.dir
+/Users/mquintero/Projects/Personal/GameDeveloping/opengl_boilerplate/build/dependencies/lib/SDL2/CMakeFiles/install/strip.dir
+/Users/mquintero/Projects/Personal/GameDeveloping/opengl_boilerplate/build/dependencies/lib/SDL2/CMakeFiles/uninstall.dir
+/Users/mquintero/Projects/Personal/GameDeveloping/opengl_boilerplate/build/dependencies/lib/SDL2/CMakeFiles/edit_cache.dir
+/Users/mquintero/Projects/Personal/GameDeveloping/opengl_boilerplate/build/dependencies/lib/SDL2/CMakeFiles/rebuild_cache.dir
+/Users/mquintero/Projects/Personal/GameDeveloping/opengl_boilerplate/build/dependencies/lib/SDL2/CMakeFiles/install.dir
+/Users/mquintero/Projects/Personal/GameDeveloping/opengl_boilerplate/build/dependencies/lib/SDL2/CMakeFiles/list_install_components.dir
+/Users/mquintero/Projects/Personal/GameDeveloping/opengl_boilerplate/build/dependencies/lib/SDL2/CMakeFiles/SDL2.dir
+/Users/mquintero/Projects/Personal/GameDeveloping/opengl_boilerplate/build/dependencies/lib/SDL2/CMakeFiles/SDL2main.dir
+/Users/mquintero/Projects/Personal/GameDeveloping/opengl_boilerplate/build/dependencies/lib/SDL2/CMakeFiles/install/local.dir
